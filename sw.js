@@ -38,7 +38,7 @@ const URLS_TO_CACHE = [
 	"src/data/pwa.js",
 	"src/data/team-collaboration.js",
 	"src/data/testing.js",
-	"src/data/web-components.js",
+	"src/data/3th-grade-curriculum.js",
 	"src/styles/shared.js",
 	"src/styles/global.css",
 	"web_modules/web-dialog.js"
