@@ -47,7 +47,7 @@ export const secondgradeCollection = {
 							["Learn C Programming", "https://www.programiz.com/c-programming"],
 							["Contributing to OpenSource","https://git-scm.com/book/ko/v2/GitHub-GitHub-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8%EC%97%90-%EA%B8%B0%EC%97%AC%ED%95%98%EA%B8%B0"]
 						]
-					}
+					},
 				},
 				{
 					name: "C++프로그래밍",
@@ -56,7 +56,7 @@ export const secondgradeCollection = {
 						links: [
 							["Programiz - learn C++", "https://www.programiz.com/cpp-programming"],
 							["Software Testing Help", "https://www.softwaretestinghelp.com/c-vs-cpp/"],
-							["Developing Algorithm", "https://ilyoan.tistory.com/entry/%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98-%EC%BD%94%EB%94%A9%EA%B8%B0%EB%B2%95-1-Introduction"]
+							["Developing Algorithm", "https://ilyoan.tistory.com/entry/%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98-%EC%BD%94%EB%94%A9%EA%B8%B0%EB%B2%95-1-Introduction"],
 						]
 					},
 				},
@@ -84,7 +84,7 @@ export const secondgradeCollection = {
 							["진로교육에서의 창업활동", "http://webzine-serii.re.kr/%EC%A7%84%EB%A1%9C%EA%B5%90%EC%9C%A1%EC%97%90%EC%84%9C-%EC%B0%BD%EC%97%85%ED%99%9C%EB%8F%99%EC%9D%80-%EB%AF%B8%EB%9E%98-%ED%95%B5%EC%8B%AC-%EC%97%AD%EB%9F%89%EC%9D%84-%ED%82%A4%EC%9A%B0%EB%8A%94/"]
 							["진로탐색을 학점으로 인정", "https://www.kbmaeil.com/news/articleView.html?idxno=837230"]
 						]
-					}
+					},
 				},
 				{
 					name: "데이터구조",

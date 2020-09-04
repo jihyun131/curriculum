@@ -47,7 +47,7 @@ export const firstgradeCollection = {
 							["Blog - Git for beginners", "https://nolboo.kim/blog/2013/10/06/github-for-beginner/"],
 							["Github.io - Using open source correctly","https://naver.github.io/OpenSourceGuide/book/UsingOss/the-legal-side-of-opensource.html#licensedef"],
 							["MDN - Git and GitHub", "https://developer.mozilla.org/ko/docs/Learn/Tools_and_testing/GitHub"],
-							["Version Management", "https://git-scm.com/book/ko/v2/%EC%8B%9C%EC%9E%91%ED%95%98%EA%B8%B0-%EB%B2%84%EC%A0%84-%EA%B4%80%EB%A6%AC%EB%9E%80%3F"]
+							["Version Management", "https://git-scm.com/book/ko/v2/%EC%8B%9C%EC%9E%91%ED%95%98%EA%B8%B0-%EB%B2%84%EC%A0%84-%EA%B4%80%EB%A6%AC%EB%9E%80%3F"],
 						]
 					},
 				},
