@@ -1,4 +1,4 @@
-import {firstgradeCollection} from "./data/firstgrade.js";
+import {firstgradeCollection} from "./data/1st-grade-curriculum.js";
 
 /**
  * All available collections.

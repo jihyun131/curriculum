@@ -1,8 +1,8 @@
 export const firstgradeCollection = {
-	name: "1학년",
+	name: "1ST GRADE CURRICULUM",
 	areas: [
 		{
-			name: "1학기",
+			name: "1st semester_required",
 			skills: [
 				{
 					name: "미래설계탐색",
@@ -25,7 +25,7 @@ export const firstgradeCollection = {
 			]
 		},
 		{
-			name: "2학기",
+			name: "2nd semester_required",
 			skills: [
 				{
 					name: "미래설계준비",
@@ -33,6 +33,11 @@ export const firstgradeCollection = {
 						text: "대학생활 전주기적인 관점에서 진로 및 취업 설계를 저학년에서부터 체계적으로 수립할 수 있는 능력을 배양한다."
 					}
 				},
+			]
+		},
+		{
+			name: "2nd semester_elective",
+			skills: [
 				{
 					name: "오픈소스SW이해 및 실습",
 					description: {
