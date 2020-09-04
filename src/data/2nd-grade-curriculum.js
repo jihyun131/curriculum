@@ -58,7 +58,7 @@ export const secondgradeCollection = {
 							["Software Testing Help", "https://www.softwaretestinghelp.com/c-vs-cpp/"],
 							["Developing Algorithm", "https://ilyoan.tistory.com/entry/%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98-%EC%BD%94%EB%94%A9%EA%B8%B0%EB%B2%95-1-Introduction"]
 						]
-					}
+					},
 				},
 				{
 					name: "데이터통신",
