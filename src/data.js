@@ -1,6 +1,6 @@
 import {secondgradeCollection} from "./data/2nd-grade-curriculum.js";
 import {firstgradeCollection} from "./data/1st-grade-curriculum.js";
-import {webcomponentsCollection} from "./data/3th-grade-curriculum.js";
+import {webcomponentsCollection} from "./data/3rd-grade-curriculum.js";
 import {pwaCollection} from "./data/4th-grade-curriculum.js";
 
 

@@ -66,48 +66,11 @@ export const pwaCollection = {
                 },
             },
             {
-                name: "정보보호",
-                description: {
-                  text: "학생들은 이 수업을 통해 정보보호의 기본 개념을 이해하고, 다양한 분야에서 사용되는 기술들을 알아볼 수 있습니다. ",
-                  links: [
-                     ["NAVER Dictionary", "https://terms.naver.com/entry.nhn?docId=1592997&cid=50374&categoryId=50374"],
-                  ]
-                },
-            },
-            {
-                name: "산학프로젝트",
-                description: {
-                  text: "학생들은 이 수업을 통해 선택한 주제에 대해 계획의 타당성과 가치에 대해 검토한 후, 선정한 프로젝트를 중심으로 요구사항 분석 및 정의, 기초 설계 및 프로토타입 개발을 수행할 수 있습니다.",
-                },
-            },
-
-            {
-                name: "컴파일러",
-                description: {
-                  text: "학생들은 이 수업을 통해 컴파일러의 기본개념에 대해 이해하고, 설계할 수 있는 능력을 기를 수 있습니다.",
-                  links: [
-                     ["NAVER Dictionary", "https://terms.naver.com/entry.nhn?docId=1149675&cid=40942&categoryId=32837"],
-                  ]
-                },
-            },
-            {
-                name: "소프트웨어공학",
-                description: {
-                  text: "학생들은 이 수업을 통해 소프트웨어 공학에서 다루는 주요 문제들과 기본적 개념, 원리에 대해 이해하고 이론과 실제 환경의 공학적 활동을 학습할 수 있습니다.",
-                  links: [
-                     ["NAVER Dictionary", "https://terms.naver.com/entry.nhn?docId=1114230&cid=40942&categoryId=32837"],
-                  ]
-                },
-            },
-            {
-                name: "인공지능",
-                description: {
-                  text: "학생들은 이 수업을 통해 인공지능 기술의 개념을 이해하고, 응용방법 및 이동형 지능 로봇에 대한 경험을 습득할 수 있습니다.",
-                  links: [
-                     ["NAVER Dictionary", "https://terms.naver.com/entry.nhn?docId=1136027&cid=40942&categoryId=32845"],
-                  ]
-                },
-            },
+               name: "분산컴퓨팅시스템",
+               description: {
+                 text: "분산 컴퓨팅 시스템과 관련된 오퍼레이팅 시스템 및 엔지니어링에 필요한 중요 개념 및 기술들에 대해서 학습한다. 또한 inter-process communication, 분산 상호배제(mutual exclusion) 등의 분산 컴퓨팅 알고리즘에 대해 연구한다.",
+               },
+           },
          ]
       },
 
@@ -133,32 +96,14 @@ export const pwaCollection = {
                 },
             },
             {
-                name: "오픈소스소프트웨어",
-                description: {
-                  text: "학생들은 이 수업을 통해 오픈소스 소프트웨어 개요를 이해하고 인공지능 및 IOT 드론등 산업 전반에 활용하는 방법을 익힐 수 있습니다.",
-                  links: [
-                     ["NAVER Dictionary", "https://web.dev/lcp/"],
-                  ]
+               name: "데이터마이닝",
+               description: {
+                 text: " ",
+                 links: [
+                    ["NAVER Dictionary", "https://terms.naver.com/entry.nhn?docId=3480817&cid=58439&categoryId=58439"],
+                 ]
                 },
-            },
-            {
-                name: "빅데이터",
-                description: {
-                  text: "학생들은 이 수업을 통해 빅데이터의 의미, 활용분야, 전망과 빅데이터를 처리 및 분석하는 데에 필요한 기술을 습득할 수 있습니다.",
-                  links: [
-                     ["NAVER Dictionary", "https://terms.naver.com/entry.nhn?docId=1691554&cid=42171&categoryId=42183"],
-                  ]
-                },
-            },
-            {
-                name: "클라우드컴퓨팅",
-                description: {
-                  text: "학생들은 이 수업을 통해 클라우드의 유형, 특징, 장점과 클라우드 컴퓨팅의 미래에 대해 학습할 수 있습니다.",
-                  links: [
-                     ["NAVER Dictionary", "https://terms.naver.com/entry.nhn?docId=1350825&cid=40942&categoryId=32828"],
-                  ]
-                },
-            },
+           },
             {
                 name: "창업파일럿프로젝트",
                 description: {
