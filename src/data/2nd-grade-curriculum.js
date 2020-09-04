@@ -50,7 +50,7 @@ export const secondgradeCollection = {
 					}
 				},
 				{
-					name: "C&C++프로그래밍",
+					name: "C & C++프로그래밍",
 					decription: {
 						text: "C 언어와 C++ 언어의 구문, 프로그램 설계 기법, 알고리즘 개발 기법을 강의하며, 이를 이용하여 고급 프로그램을 개발하는 능력을 배양한다.",
 						links: [
@@ -74,7 +74,7 @@ export const secondgradeCollection = {
 			]
 		},
 		{
-			name: "2st semester_required",
+			name: "2nd semester_required",
 			skills: [
 				{
 					name: "창업탐색",
@@ -112,7 +112,7 @@ export const secondgradeCollection = {
 			],
 		},
 		{
-			name: "2st semester_elective",
+			name: "2nd semester_elective",
 			skills: [
 				{
 					name: "오토마타이론",
@@ -126,7 +126,7 @@ export const secondgradeCollection = {
 					}
 				},
 				{
-					name: "논리회로 및 설계 ",
+					name: "논리회로 및 설계",
 					description: {
 						text: "디지털 하드웨어의 동작을 이해하기 위하여 기본 디지털 소자를 비롯한 다양한 디지털 회로에 대한 이해와 설계 능력을 배양한다.",
 						links: [
