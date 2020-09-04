@@ -70,7 +70,7 @@ export const pwaCollection = {
                description: {
                  text: "학생들은 이 수업을 통해 분산 컴퓨팅 시스템과 관련된 오퍼레이팅 시스템 및 엔지니어링에 필요한 중요 개념 및 기술들에 대해서 학습할 수 있습니다.",
                },
-           },
+            },
          ]
       },
 
@@ -103,7 +103,7 @@ export const pwaCollection = {
                     ["NAVER Dictionary", "https://terms.naver.com/entry.nhn?docId=3480817&cid=58439&categoryId=58439"],
                  ]
                 },
-           },
+            },
             {
                 name: "창업파일럿프로젝트",
                 description: {

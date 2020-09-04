@@ -40,7 +40,7 @@ export const secondgradeCollection = {
 				},
 				{
 					name: "오픈소스 기초프로젝트",
-					decription: {
+					description: {
 						text: "C 프로그래밍 언어를 활용하여 실용 소프트웨어를 개발하고, 개인 및 팀 프로젝트를 통해 오픈소스 저장소에 기여하는 방법을 실습한다.",
 						links: [
 							["Open Source.guide", "https://opensource.guide/ko/starting-a-project/"],
@@ -51,7 +51,7 @@ export const secondgradeCollection = {
 				},
 				{
 					name: "C++프로그래밍",
-					decription: {
+					description: {
 						text: "C 언어와 C++ 언어의 구문, 프로그램 설계 기법, 알고리즘 개발 기법을 강의하며, 이를 이용하여 고급 프로그램을 개발하는 능력을 배양한다.",
 						links: [
 							["Programiz - learn C++", "https://www.programiz.com/cpp-programming"],
@@ -62,7 +62,7 @@ export const secondgradeCollection = {
 				},
 				{
 					name: "데이터통신",
-					decription: {
+					description: {
 						text: "인터넷 활용, 통신 모델, 전송 매체의 유형과 특성, 네트워크 장비, 전송 방식, 전송 기술, 오류 제어, 부호화, 정보 압축, 보안 등의 개념에 대하여 학습한다.",
 						links: [
 							["Tistory Blog - Data communication", "https://wondong2.tistory.com/25"],
@@ -78,7 +78,7 @@ export const secondgradeCollection = {
 			skills: [
 				{
 					name: "창업탐색",
-				description: {
+					description: {
 						text: "대학생활 전주기적인 관점에서 창업에 관한 진로 설계를 저학년에서부터 체계적으로 수립할 수 있는 능력을 배양한다.",
 						links: [
 							["진로교육에서의 창업활동", "http://webzine-serii.re.kr/%EC%A7%84%EB%A1%9C%EA%B5%90%EC%9C%A1%EC%97%90%EC%84%9C-%EC%B0%BD%EC%97%85%ED%99%9C%EB%8F%99%EC%9D%80-%EB%AF%B8%EB%9E%98-%ED%95%B5%EC%8B%AC-%EC%97%AD%EB%9F%89%EC%9D%84-%ED%82%A4%EC%9A%B0%EB%8A%94/"]
