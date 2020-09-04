@@ -2,7 +2,7 @@ export const pwaCollection = {
    name: "4th grade curriculum",
    areas: [
       {
-         name: "1st semester-required",
+         name: "1st semester_required",
          skills: [
             {
                name: "캡스톤디자인",
@@ -17,7 +17,7 @@ export const pwaCollection = {
       },
 
       {
-         name: "1st semester-eledive",
+         name: "1st semester_elective",
          skills: [
             {
                 name: "머신러닝",
@@ -112,7 +112,7 @@ export const pwaCollection = {
       },
 
       {
-         name: "2nd semester-eledive",
+         name: "2nd semester_elective",
          skills: [
             {
                name: "인공신경망",
