@@ -49,17 +49,17 @@ export const secondgradeCollection = {
 						]
 					},
 				},
-				{
-					name: "C++프로그래밍",
-					description: {
-						text: "C 언어와 C++ 언어의 구문, 프로그램 설계 기법, 알고리즘 개발 기법을 강의하며, 이를 이용하여 고급 프로그램을 개발하는 능력을 배양한다.",
-						links: [
-							["Programiz - learn C++", "https://www.programiz.com/cpp-programming"],
-							["Software Testing Help", "https://www.softwaretestinghelp.com/c-vs-cpp/"],
-							["Developing Algorithm", "https://ilyoan.tistory.com/entry/%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98-%EC%BD%94%EB%94%A9%EA%B8%B0%EB%B2%95-1-Introduction"],
-						]
-					},
-				},
+				// {
+				// 	name: "C++프로그래밍",
+				// 	description: {
+				// 		text: "C 언어와 C++ 언어의 구문, 프로그램 설계 기법, 알고리즘 개발 기법을 강의하며, 이를 이용하여 고급 프로그램을 개발하는 능력을 배양한다.",
+				// 		links: [
+				// 			["Programiz - learn C++", "https://www.programiz.com/cpp-programming"],
+				// 			["Software Testing Help", "https://www.softwaretestinghelp.com/c-vs-cpp/"],
+				// 			["Developing Algorithm", "https://ilyoan.tistory.com/entry/%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98-%EC%BD%94%EB%94%A9%EA%B8%B0%EB%B2%95-1-Introduction"],
+				// 		]
+				// 	},
+				// },
 				{
 					name: "데이터통신",
 					description: {
