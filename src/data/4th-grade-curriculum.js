@@ -1,5 +1,5 @@
 export const pwaCollection = {
-   name: "4th-grade-curriculum",
+   name: "4th grade curriculum",
    areas: [
       {
          name: "1st semester-required",
