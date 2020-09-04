@@ -1,4 +1,4 @@
-import {fundamentalsCollection} from "./data/fundamentals.js";
+import {firstgradeCollection} from "./data/1st-grade-curriculum.js";
 import {webcomponentsCollection} from "./data/3th-grade-curriculum.js";
 import {accessibilityCollection} from "./data/accessibility.js";
 import {pwaCollection} from "./data/4th-grade-curriculum.js";
@@ -12,21 +12,10 @@ import {algorithmsCollection} from "./data/algorithms.js";
 import {designAndUXCollection} from "./data/design-and-ux.js";
 import {databasesCollection} from "./data/databases.js";
 
+
 /**
  * All available collections.
  */
 export const collections = [
-	fundamentalsCollection,
-	accessibilityCollection,
-	webcomponentsCollection,
-	pwaCollection,
-	buildtoolsCollection,
-	frameworksAndLibrariesCollection,
-	testingCollection,
-	architectureCollection,
-	teamCollaborationCollection,
-	designAndUXCollection,
-	modernCollection,
-	algorithmsCollection,
-	databasesCollection,
+	firstgradeCollection
 ];
