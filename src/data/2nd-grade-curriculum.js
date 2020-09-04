@@ -1,5 +1,5 @@
 export const secondgradeCollection = {
-	name: "2ND GRADE CURRICULUM",
+	name: "2nd grade curriculum",
 	areas: [
 		{
 			name: "1st semester_required",

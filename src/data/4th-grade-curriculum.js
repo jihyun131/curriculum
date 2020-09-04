@@ -112,7 +112,7 @@ export const pwaCollection = {
       },
 
       {
-         name: "2nd semester_elecdive",
+         name: "2nd semester_elective",
          skills: [
             {
                name: "인공신경망",

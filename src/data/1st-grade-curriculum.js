@@ -1,5 +1,5 @@
 export const firstgradeCollection = {
-	name: "1ST GRADE CURRICULUM",
+	name: "1st grade curriculum",
 	areas: [
 		{
 			name: "1st semester_required",
