@@ -28,7 +28,7 @@ const URLS_TO_CACHE = [
 	"src/atoms/snackbar.js",
 	//fixed part --------
 	"src/data/2nd-grade-curriculum.js",
-	//end
+	//-----------------end
 	"src/styles/shared.js",
 	"src/styles/global.css",
 	"web_modules/web-dialog.js"
