@@ -1,7 +1,7 @@
 import {fundamentalsCollection} from "./data/fundamentals.js";
 import {webcomponentsCollection} from "./data/web-components.js";
 import {accessibilityCollection} from "./data/accessibility.js";
-import {pwaCollection} from "./data/4th-grade-curriculum.js";
+import {pwaCollection} from "./data/4th grade curriculum.js";
 import {architectureCollection} from "./data/architecture-and-paradigmes.js";
 import {buildtoolsCollection} from "./data/build-tools.js";
 import {testingCollection} from "./data/testing.js";
