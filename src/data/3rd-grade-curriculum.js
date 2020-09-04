@@ -1,5 +1,5 @@
 export const webcomponentsCollection = {
-	name: "3th grade curriculum",
+	name: "3rd grade curriculum",
 	areas: [
 	   {
 		  name: "1st semester_required",

@@ -50,7 +50,7 @@ export const secondgradeCollection = {
 					}
 				},
 				{
-					name: "C & C++프로그래밍",
+					name: "C++프로그래밍",
 					decription: {
 						text: "C 언어와 C++ 언어의 구문, 프로그램 설계 기법, 알고리즘 개발 기법을 강의하며, 이를 이용하여 고급 프로그램을 개발하는 능력을 배양한다.",
 						links: [
