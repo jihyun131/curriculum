@@ -1,3 +1,4 @@
+import {secondgradeCollection} from "./data/2nd-grade-curriculum.js";
 import {firstgradeCollection} from "./data/1st-grade-curriculum.js";
 import {webcomponentsCollection} from "./data/3th-grade-curriculum.js";
 import {accessibilityCollection} from "./data/accessibility.js";
@@ -17,5 +18,5 @@ import {databasesCollection} from "./data/databases.js";
  * All available collections.
  */
 export const collections = [
-	firstgradeCollection
+	secondgradeCollection
 ];
