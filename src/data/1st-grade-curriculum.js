@@ -39,7 +39,7 @@ export const firstgradeCollection = {
 			name: "2nd semester_elective",
 			skills: [
 				{
-					name: "오픈소스SW이해 및 실습",
+					name: "오픈소스 소프트웨어 이해 및 실습",
 					description: {
 						text: "오픈소스 소프트웨어의 종류 및 활용사례에 대해 배우고, Git/Github과 같은 관리 시스템을 기반으로 버전 관리, 개발 및 문서화에 대한 실습을 진행한다.",
 						links: [
