@@ -68,7 +68,7 @@ export const pwaCollection = {
             {
                name: "분산컴퓨팅시스템",
                description: {
-                 text: "분산 컴퓨팅 시스템과 관련된 오퍼레이팅 시스템 및 엔지니어링에 필요한 중요 개념 및 기술들에 대해서 학습한다. 또한 inter-process communication, 분산 상호배제(mutual exclusion) 등의 분산 컴퓨팅 알고리즘에 대해 연구한다.",
+                 text: "학생들은 이 수업을 통해 분산 컴퓨팅 시스템과 관련된 오퍼레이팅 시스템 및 엔지니어링에 필요한 중요 개념 및 기술들에 대해서 학습할 수 있습니다.",
                },
            },
          ]
@@ -98,7 +98,7 @@ export const pwaCollection = {
             {
                name: "데이터마이닝",
                description: {
-                 text: " ",
+                 text: "학생들은 이 수업을 통해 데이터 속성 및 데이터 전처리 기법을 배우고 분류와 군집의 고급 기법 등 데이터로부터 의미있는 패턴을 발견하는데 필요한 데이터마이닝 이론을 학습할 수 있습니다.",
                  links: [
                     ["NAVER Dictionary", "https://terms.naver.com/entry.nhn?docId=3480817&cid=58439&categoryId=58439"],
                  ]
